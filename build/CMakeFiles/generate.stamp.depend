@@ -1,0 +1,33 @@
+# CMake generation dependency list for this directory.
+A:/CMake/share/cmake-3.27/Modules/CMakeCInformation.cmake
+A:/CMake/share/cmake-3.27/Modules/CMakeCXXInformation.cmake
+A:/CMake/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake
+A:/CMake/share/cmake-3.27/Modules/CMakeGenericSystem.cmake
+A:/CMake/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake
+A:/CMake/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake
+A:/CMake/share/cmake-3.27/Modules/CMakeRCInformation.cmake
+A:/CMake/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake
+A:/CMake/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake
+A:/CMake/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+A:/CMake/share/cmake-3.27/Modules/Compiler/MSVC-C.cmake
+A:/CMake/share/cmake-3.27/Modules/Compiler/MSVC-CXX.cmake
+A:/CMake/share/cmake-3.27/Modules/Compiler/MSVC.cmake
+A:/CMake/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake
+A:/CMake/share/cmake-3.27/Modules/FindPackageMessage.cmake
+A:/CMake/share/cmake-3.27/Modules/Platform/Windows-Initialize.cmake
+A:/CMake/share/cmake-3.27/Modules/Platform/Windows-MSVC-C.cmake
+A:/CMake/share/cmake-3.27/Modules/Platform/Windows-MSVC-CXX.cmake
+A:/CMake/share/cmake-3.27/Modules/Platform/Windows-MSVC.cmake
+A:/CMake/share/cmake-3.27/Modules/Platform/Windows.cmake
+A:/CMake/share/cmake-3.27/Modules/Platform/WindowsPaths.cmake
+A:/OpenCV/opencv/build/OpenCVConfig-version.cmake
+A:/OpenCV/opencv/build/OpenCVConfig.cmake
+A:/OpenCV/opencv/build/x64/vc16/lib/OpenCVConfig.cmake
+A:/OpenCV/opencv/build/x64/vc16/lib/OpenCVModules-debug.cmake
+A:/OpenCV/opencv/build/x64/vc16/lib/OpenCVModules-release.cmake
+A:/OpenCV/opencv/build/x64/vc16/lib/OpenCVModules.cmake
+C:/Users/ahmet/Desktop/Tasks/Corresponsence Matching/CMakeLists.txt
+C:/Users/ahmet/Desktop/Tasks/Corresponsence Matching/build/CMakeFiles/3.27.4/CMakeCCompiler.cmake
+C:/Users/ahmet/Desktop/Tasks/Corresponsence Matching/build/CMakeFiles/3.27.4/CMakeCXXCompiler.cmake
+C:/Users/ahmet/Desktop/Tasks/Corresponsence Matching/build/CMakeFiles/3.27.4/CMakeRCCompiler.cmake
+C:/Users/ahmet/Desktop/Tasks/Corresponsence Matching/build/CMakeFiles/3.27.4/CMakeSystem.cmake

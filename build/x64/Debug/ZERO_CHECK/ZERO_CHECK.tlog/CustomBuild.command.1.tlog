@@ -1,0 +1,10 @@
+^C:\USERS\AHMET\DESKTOP\TASKS\CORRESPONSENCE MATCHING\BUILD\CMAKEFILES\BD5E84B4E13207EB85727D5CDD860EB3\GENERATE.STAMP.RULE
+setlocal
+A:\CMake\bin\cmake.exe "-SC:/Users/ahmet/Desktop/Tasks/Corresponsence Matching" "-BC:/Users/ahmet/Desktop/Tasks/Corresponsence Matching/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/ahmet/Desktop/Tasks/Corresponsence Matching/build/corresponsenceMatching.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,3 @@
+C:/Users/ahmet/Desktop/Tasks/Corresponsence Matching/build/CMakeFiles/corresponsenceMatching.dir
+C:/Users/ahmet/Desktop/Tasks/Corresponsence Matching/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/ahmet/Desktop/Tasks/Corresponsence Matching/build/CMakeFiles/ZERO_CHECK.dir

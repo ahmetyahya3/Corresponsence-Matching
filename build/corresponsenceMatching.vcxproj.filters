@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\ahmet\Desktop\Tasks\Corresponsence Matching\src\main.cpp">
+    <ClCompile Include="C:\Users\Arg\Documents\Repositories\Corresponsence-Matching\src\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\ahmet\Desktop\Tasks\Corresponsence Matching\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\Arg\Documents\Repositories\Corresponsence-Matching\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{5F42EE92-A6D0-3378-AF4F-CB628FDABB73}</UniqueIdentifier>
+      <UniqueIdentifier>{E8613CED-76DB-3583-B33C-424C77ABC701}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
